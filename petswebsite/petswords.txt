@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<body style="background-color:##ffff91">
+{style="color:pink"
+<h1>My Pets</h1>
+<h2>Meet the Boys!</h2>
+<h3>Paco</h3>
+<h3>Cooper</h3>
+<h3>Finn</h3>
+
+}
+
+
+
+</body>
+</html>
